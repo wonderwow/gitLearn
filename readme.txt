@@ -4,3 +4,4 @@ Git is free software.
 增加第4行文字。
 Git is free software distributed under the GPL.
 Git tracks changes.
+第七行文件。
